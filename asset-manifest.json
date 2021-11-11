@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/telescope/static/css/main.3db56c6b.chunk.css",
-    "main.js": "/telescope/static/js/main.709a2418.chunk.js",
-    "main.js.map": "/telescope/static/js/main.709a2418.chunk.js.map",
+    "main.css": "/telescope/static/css/main.f01a814e.chunk.css",
+    "main.js": "/telescope/static/js/main.7f4ce64f.chunk.js",
+    "main.js.map": "/telescope/static/js/main.7f4ce64f.chunk.js.map",
     "runtime-main.js": "/telescope/static/js/runtime-main.a4081b5a.js",
     "runtime-main.js.map": "/telescope/static/js/runtime-main.a4081b5a.js.map",
     "static/js/2.37ecee15.chunk.js": "/telescope/static/js/2.37ecee15.chunk.js",
     "static/js/2.37ecee15.chunk.js.map": "/telescope/static/js/2.37ecee15.chunk.js.map",
     "index.html": "/telescope/index.html",
-    "static/css/main.3db56c6b.chunk.css.map": "/telescope/static/css/main.3db56c6b.chunk.css.map",
+    "static/css/main.f01a814e.chunk.css.map": "/telescope/static/css/main.f01a814e.chunk.css.map",
     "static/js/2.37ecee15.chunk.js.LICENSE.txt": "/telescope/static/js/2.37ecee15.chunk.js.LICENSE.txt",
     "static/media/1.cd2ab8b5.jpeg": "/telescope/static/media/1.cd2ab8b5.jpeg",
     "static/media/2.36da6beb.jpeg": "/telescope/static/media/2.36da6beb.jpeg",
@@ -139,7 +139,7 @@
   "entrypoints": [
     "static/js/runtime-main.a4081b5a.js",
     "static/js/2.37ecee15.chunk.js",
-    "static/css/main.3db56c6b.chunk.css",
-    "static/js/main.709a2418.chunk.js"
+    "static/css/main.f01a814e.chunk.css",
+    "static/js/main.7f4ce64f.chunk.js"
   ]
 }
