@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/telescope/static/css/main.f01a814e.chunk.css",
-    "main.js": "/telescope/static/js/main.6ca86019.chunk.js",
-    "main.js.map": "/telescope/static/js/main.6ca86019.chunk.js.map",
+    "main.js": "/telescope/static/js/main.0e02aeb4.chunk.js",
+    "main.js.map": "/telescope/static/js/main.0e02aeb4.chunk.js.map",
     "runtime-main.js": "/telescope/static/js/runtime-main.a4081b5a.js",
     "runtime-main.js.map": "/telescope/static/js/runtime-main.a4081b5a.js.map",
     "static/js/2.37ecee15.chunk.js": "/telescope/static/js/2.37ecee15.chunk.js",
@@ -32,7 +32,7 @@
     "static/media/EZEQUIEL MEJÍA.f9f00afe.JPG": "/telescope/static/media/EZEQUIEL MEJÍA.f9f00afe.JPG",
     "static/media/EZEQUIEL.e07dc1e4.mp4": "/telescope/static/media/EZEQUIEL.e07dc1e4.mp4",
     "static/media/FOTO PARA LA PORTADA.58cc8021.jpeg": "/telescope/static/media/FOTO PARA LA PORTADA.58cc8021.jpeg",
-    "static/media/GRUPAL.1a998993.jpeg": "/telescope/static/media/GRUPAL.1a998993.jpeg",
+    "static/media/GRUPAL.d072df02.jpeg": "/telescope/static/media/GRUPAL.d072df02.jpeg",
     "static/media/GabrielaArismendy.d6796d3d.jpg": "/telescope/static/media/GabrielaArismendy.d6796d3d.jpg",
     "static/media/INTAHUI YOLTEOTL RAMÍREZ.d3470dfc.jpeg": "/telescope/static/media/INTAHUI YOLTEOTL RAMÍREZ.d3470dfc.jpeg",
     "static/media/INTAHUI- JULIÁN.1db22f20.mp4": "/telescope/static/media/INTAHUI- JULIÁN.1db22f20.mp4",
@@ -140,6 +140,6 @@
     "static/js/runtime-main.a4081b5a.js",
     "static/js/2.37ecee15.chunk.js",
     "static/css/main.f01a814e.chunk.css",
-    "static/js/main.6ca86019.chunk.js"
+    "static/js/main.0e02aeb4.chunk.js"
   ]
 }
