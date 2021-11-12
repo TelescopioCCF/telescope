@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/telescope/static/css/main.f01a814e.chunk.css",
-    "main.js": "/telescope/static/js/main.7f4ce64f.chunk.js",
-    "main.js.map": "/telescope/static/js/main.7f4ce64f.chunk.js.map",
+    "main.js": "/telescope/static/js/main.6ca86019.chunk.js",
+    "main.js.map": "/telescope/static/js/main.6ca86019.chunk.js.map",
     "runtime-main.js": "/telescope/static/js/runtime-main.a4081b5a.js",
     "runtime-main.js.map": "/telescope/static/js/runtime-main.a4081b5a.js.map",
     "static/js/2.37ecee15.chunk.js": "/telescope/static/js/2.37ecee15.chunk.js",
@@ -140,6 +140,6 @@
     "static/js/runtime-main.a4081b5a.js",
     "static/js/2.37ecee15.chunk.js",
     "static/css/main.f01a814e.chunk.css",
-    "static/js/main.7f4ce64f.chunk.js"
+    "static/js/main.6ca86019.chunk.js"
   ]
 }
